@@ -24,8 +24,8 @@ No CSS or JavaScript is used in this project.
 3. The resume will open in your web browser
 
 ## Screenshots
-![parthbsawant_resume_assignemnt screenshot _ 1](parthbsawant_resume_html_assignment_1.png) 
-![parthbsawant_resume_assignemnt screenshot _ 2](parthbsawant_resume_html_assignment_2.png)
+![parthbsawant_resume_assignemnt screenshot _ 1](images/parthbsawant_resume_html_assignment_1.png) 
+![parthbsawant_resume_assignemnt screenshot _ 2](images/parthbsawant_resume_html_assignment_2.png)
 
 ## Author
 Parth Balasaheb Sawant
